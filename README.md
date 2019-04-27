@@ -1,7 +1,5 @@
 # comparing-prediction-models
-Comparing performance between GridSearch and Decision Tree algorithms
-
-# Udacity: Machine Learning Engineer Nanodegree
+Comparing performance between GridSearch and Decision Tree algorithms for Udacity: Machine Learning Engineer Nanodegree
 
 ## Model Evaluation and Validation Project: Predicting Boston Housing Prices
 
